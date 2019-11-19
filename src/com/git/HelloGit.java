@@ -9,6 +9,6 @@ public class HelloGit {
         System.out.println("hello Git");
         System.out.println("hello psuh 2!!!");
 
-        System.out.println("hello psuh 222 by clone!!!");
+        System.out.println("hello psuh by clone!!!");
     }
 }
