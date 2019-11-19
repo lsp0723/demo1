@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="helloGit:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/helloGit_jar</output-path>
+    <root id="archive" name="helloGit.jar">
+      <element id="module-output" name="helloGit" />
+    </root>
+  </artifact>
+</component>
