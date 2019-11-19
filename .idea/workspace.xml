@@ -7,16 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a8eccc9-4dac-4ada-b677-15d60e22d481" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/helloGit_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloGit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/helloGit_jar/helloGit.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/helloGit/com/git/HelloGit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/git/HelloGit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloGit/com/git/HelloGit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloGit/com/git/HelloGit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/git/HelloGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/git/HelloGit.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,12 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/git/HelloGit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#129#130#0" expanded="true" />
-                <element signature="e#176#177#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="198">
+              <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -55,6 +44,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="lsp0723 &lt;liu_shengpeng@163.com&gt;" />
         <option value="lsp0723" />
         <option value="lsp" />
       </list>
@@ -99,10 +89,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="243" />
-    <option name="y" value="90" />
+    <option name="x" value="1014" />
+    <option name="y" value="139" />
     <option name="width" value="1777" />
-    <option name="height" value="972" />
+    <option name="height" value="962" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -118,6 +108,17 @@
             <path>
               <item name="helloGit" type="b2602c69:ProjectViewProjectNode" />
               <item name="helloGit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helloGit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloGit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helloGit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloGit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="git" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -180,18 +181,33 @@
       <option name="presentableId" value="Default" />
       <updated>1574134605232</updated>
       <workItem from="1574134608543" duration="3003000" />
-      <workItem from="1574148165181" duration="3729000" />
+      <workItem from="1574148165181" duration="5909000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit all">
+      <created>1574152887682</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574152887682</updated>
+    </task>
+    <task id="LOCAL-00002" summary="edit push second">
+      <created>1574153852593</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574153852593</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6732000" />
+    <option name="totallyTimeSpent" value="8912000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="770" y="166" width="1777" height="972" extended-state="0" />
+    <frame x="1014" y="139" width="1777" height="962" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14094351" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14094351" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -200,16 +216,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.16932516" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4997088" weight="0.16830467" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4997088" weight="0.32923833" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49854398" visible="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4997088" visible="true" weight="0.32923833" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5002912" side_tool="true" visible="true" weight="0.32923833" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.64764124" weight="0.32923833" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.501456" side_tool="true" visible="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4997088" weight="0.32923833" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -225,19 +241,26 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit all" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit all" />
+    <MESSAGE value="edit push second" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit push second" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/git/HelloGit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="198">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
         </state>
       </provider>
     </entry>

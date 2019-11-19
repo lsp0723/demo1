@@ -7,7 +7,7 @@ package com.git;
 public class HelloGit {
     public static void main(String[] args) {
         System.out.println("hello Git");
-        System.out.println("hello psuh 2!!!");
+        System.out.println("hello psuh 2!wwww!!");
 
         System.out.println("hello psuh by clone!!!");
     }
