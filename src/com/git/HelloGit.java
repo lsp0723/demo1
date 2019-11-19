@@ -10,5 +10,6 @@ public class HelloGit {
         System.out.println("hello psuh 2!!!");
 
         System.out.println("hello psuh by clone!!!");
+        System.out.println("hello psuh  again by clone--branch e1.0!!!");
     }
 }
